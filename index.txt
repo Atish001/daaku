@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <marquee direction="left">
+    <h1> this is my first file </h1></marquee>
+    <marquee direction="right">
+      <h2> i know everything </h2></marquee>
+    <marquee direction="down"><img src="E:\pics\0a855a358c9a6dfcc04388a5e574ca7d.jpg"></marquee>
+    <script src="index.js"></script>
+  </body>
+</html>
